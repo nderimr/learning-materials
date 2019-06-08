@@ -1,6 +1,6 @@
 # Learning-materials 
 Learning materials are developed for high school students because of lack of books for the respective subjects (Information technology, Pascal programming, Practical learning and Programming languages).
-These materials cover the curriculum stated in the Bureau for Education Development, the goal is to make easy for the students to understand the course content and develop a basic or intermediate understanding of computers and programming.  
+These materials cover the curriculum published in the Bureau for Education Development of Republic of North Macedonia, the goal is to make easy for the students to understand the course content and develop a basic or intermediate understanding of computers and programming.  
 
 
 Information technology 
